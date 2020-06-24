@@ -1,32 +1,20 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+# শরীর ভর সূচক গণনা অ্যাপলিকেশন💪
 
+## বর্ণনা
 
-# BMI Calculator 💪
-
-## Our Goal
-
-The objective of this tutorial is to look at how we can customise Flutter Widgets to achieve our own beautiful user interface designs. If you have a designer on board, no matter how unconventional their designs are, we can create them using Flutter. 
-
-
-## What you will create
-
-We’re going to make a Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). It will be a multi screen app with simple functionality but full-on custom styling. 
+এটি ফ্লাটার ব্যবহার করে উন্নয়ন করা একটি ক্রস-প্ল্যাটফর্ম শরীর ভর সূচক গণনা অ্যাপলিকেশন। নিজস্ব ব্যবহারকারী ইন্টারফেস তৈরীর মাধ্যমে ব্যবহারকারীর কাছে শরীর সূচক গণনা আরও সহজ করাই এ অ্যাপলিকেশনের উদ্দেশ্য। এ অ্যাপলিকেশনের ইউআই ডিজাইন [রুবেন ভ্যালট](https://dribbble.com/shots/4585382-Simple-BMI-Calculator) থেকে অনুপ্রাণিত করা হয়েছে। 
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
 
-## What you will learn
+## যা শিখেছি
 
-- How to use Flutter themes to create coherent branding. 
-- How to create multi-page apps using Flutter Routes and Navigator.
-- How to extract and refactor Flutter Widgets with a click of the button. 
-- How to pass functions as parameters and fields.
-- How to use the GestureDetector Widget to detect more than just a tap.
-- How to use custom colour palettes by using hex codes.
-- How to customise Flutter Widgets to achieve a specific design style.
-- Understand Dart Enums and the Ternary Operator.
-- Learn about composition vs. inheritance and the Flutter way of creating custom UI.
-- Understand the difference between const and final in Dart and when to use each.
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+- সামঞ্জস্যপূর্ণ ব্র্যান্ডিঙের জন্য ফ্লাটার থিমের ব্যবহার।
+- ফ্লাটার রুট ও নেভিগেটর ব্যবহার করে একাধিক পেজের অ্যাপলিকেশন তৈরী।
+- ফ্লাটার উইজেট এক্সট্রাক্ট ও রিফ্যাক্টর করা। 
+- প্যারামিটার ও ফিল্ড হিশেবে ফাংশন পাস করা। 
+- হেক্সাডেসিমেল কোড ব্যবহার করা কাস্টম কালার প্যালেট তৈরী। ‌
+- ডার্ট ইনাম ও টার্নারি অপারেটর। 
+- কম্পজিশন আর ইনহেরিটেন্স এবং কাস্টম ইউআই তৈরীর ফ্লাটার ওয়ে। 
+- const আর final এর পার্থক্য ও তাদের ব্যবহারবিধি। 
+ 
+> এ প্রকল্পটি অ্যাঞ্জেলা য়্যুর Complete Flutter Development Bootcamp [www.appbrewery.co](https://www.appbrewery.co/) কোর্সটি করার সময় তৈরী করা হয়েছে। 
